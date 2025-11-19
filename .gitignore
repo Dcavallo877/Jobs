@@ -1,0 +1,27 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
